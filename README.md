@@ -1,4 +1,4 @@
-[![TTN](http://www.ttchain.in/images/ttchain-in.png)](http://www.ttchain.in/en/index.html)
+[![TTN](https://abasummit.io/wp-content/uploads/2019/06/TTchain.png)](http://www.ttchain.in/en/index.html)
 
 ## Introduction
 TTChain's core consensus adopts the RDPOSA (Random Delegated Proof of Stake Authority) protocol to provide high-speed and secure solutions, and its interaction with the bottom-level native linear smart time-lock mechanism enables it to realize the following three cross-chain features:
